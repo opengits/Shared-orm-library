@@ -21,7 +21,7 @@ The **Shared ORM Library** is a Django package that provides reusable ORM models
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/shared-orm-library.git
+   git clone https://github.com/opengits/shared-orm-library.git
    cd shared-orm-library
    ```
 
